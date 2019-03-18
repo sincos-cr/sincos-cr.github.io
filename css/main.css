@@ -1389,7 +1389,7 @@ pre .javascript .function {
   width: 8px;
   height: 8px;
   background: #bbb;
-  
+  border-radius: 50%;
 }
 .posts-collapse .post {
   margin: 30px 0;
@@ -1742,7 +1742,6 @@ pre .javascript .function {
   max-width: 120px;
   height: auto;
   border: 1px solid #eee;
-  border-radius: 50%;
 }
 .site-author-name {
   margin: 0;
@@ -1824,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #34a7fa;
+  background: #9a99bf;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2753,7 +2752,7 @@ pre .javascript .function {
   position: relative;
 }
 .site-meta {
-  padding: 40px 0;
+  padding: 20px 0;
   color: #fff;
   background: #222;
 }
@@ -2866,7 +2865,7 @@ pre .javascript .function {
 }
 .sidebar-inner.affix {
   position: fixed;
-  top: 12px;
+  top: 10px;
 }
 .sidebar-inner.affix-bottom {
   position: absolute;
